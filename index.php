@@ -3,6 +3,6 @@
   <title>Prueba de PHP</title>
  </head>
  <body>
- <?php echo '<p>Hola clase de IGS</p>'; ?>
+ <?php echo '<p>Hola clase de IGS.</p>'; ?>
  </body>
 </html>
